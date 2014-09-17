@@ -1,0 +1,21 @@
+Juho Nissi
+IIO14S2
+
+Harjoitus 02
+
+Pseudokoodi harjoituksesta 01
+
+Alku
+->Anna L1, L2, L3
+	-> if L1 < L2
+		-> if L2 < L3
+			-> L1<L2<L3
+		else -> if L1 < L3
+			-> L1<L3<L2
+			Else -> L3<L1<L2
+	Else -> if L2 < L3
+		-> if L1 < L3
+			-> L2<L1<L3
+			Else -> L2<L3<L1
+		Else -> L3<L2<L1
+Loppu
